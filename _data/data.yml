@@ -1,0 +1,197 @@
+#
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
+#
+
+sidebar:
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
+
+  # Profile information
+  name: Javier Sampablo  # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+
+  # Actualiza tus datos de contacto
+  email: sampablo-jisc@outlook.com
+  phone: 312-317-06-42
+#  website: # No agregar http://
+  linkedin: 'javier-sampablo'
+  github: SampabloC
+#  gitlab:
+#  bitbucket:
+  twitter: '@SampabloJI'
+#  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars: SampabloC
+#  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Team Work
+      link: # dejar en blanco
+
+    - item: Time Management
+      link: # dejar en blanco
+      
+    - item: Listening
+      link:
+      
+    - item: Adaptability
+      link:
+
+    - item: Cooperation
+      link:
+    
+    - item: Dedication
+      link:
+    
+    - item: Open-mindness
+      link:
+      
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    I am a Computational Systems Engineering student on 9th period who like to learn new skills about programming
+    and improving my work.
+    
+    I am a person with a great disposition for teamwork.
+    I enjoy self-learning and help teammates when they need it.
+    My goal is become a Senior Developer, so I can help newbie programmers to introduced them good coding skills and other profesional skills.
+    I like to resolve puzzles and some games that present some difficult.
+    My hobby is play some musical instruments, I like to relax sometimes after some coding sessions playing soft music.
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+
+  - degree: Internship
+    university: BrightCoders Academy
+    time: 2021 June - 2021 September
+    details: |
+    
+  - degree: Ingeniería en Sistemas Computacionales
+    university: Tecnológico Nacional de México Campus Colima
+    time: 2017 August - current
+    details: |
+  - degree: Bachillerato Técnico en Dibujo
+    university: Universidad de Colima
+    time: 2014 - 2017
+    details: |
+#      Unsupervised deep learning for automatic behavior analysis
+
+#        - Unsupervised learning
+#        - Representaion learning
+#       - Automatic Behavior Analysis
+
+
+#      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+
+#        - Deep learning
+#        - Hand Gesture
+
+#  - degree: Bachelor Degree
+#    university: Politecnico di Torino (Torino, Italy)
+#    time: 2009 - 2012
+#    details: |
+#      Master degree in Computer Engineering
+
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+   - role: Student
+     time: 2019 - 2020
+     company: Tecnológico Nacional de México Campus Colima
+     details: |
+        Basic project to apply knowledge on Software Engineering to made a website focused on a Crossfit Box.
+        This website connect to a MySQL database and work with Flask framework.
+        
+   - role: Trainee
+     time: 2021
+     company: BrightCoders Academy
+     details: |
+        Develop Web pages with Ruby on Rails framework, using other technologies as HTML5, Sass, Bootstrap, Rspec and a bit of JavaScript.
+        Working with PostgreSQL as main database.
+        Deploying some websites on heroku.
+        
+   - role: Volunteering
+     time: 30/July - 01/August
+     company: Hackathon 4 Good
+     details: |
+        Develop backend with Python on Flask where my team won first place developing a website for Techo House.
+#  - role: Lead Developer
+#    time: 2015 - Present
+#    company: Startup Hubs, San Francisco
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#      error sit voluptatem accusantium doloremque laudantium, totam rem
+#      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#      architecto beatae vitae dicta sunt explicabo.
+#        - Bullet point
+#        - Bullet point
+
+#  - role: Senior Software Engineer
+#    time: 2014 - 2015
+#    company: Google, London
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem.
+
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+    - name: Python
+      level: 55%
+
+    - name: Java
+      level: 65%
+
+    - name: Git
+      level: 70%
+
+    - name: Ruby
+      level: 60%
+
+    - name: HTML
+      level: 70%
+
+    - name: CSS
+      level: 65%
+     
+    - name: SQL
+      level: 60%
+      
+    - name: Flask
+      level: 40%
+      
+    - name: Linux
+      level: 60%
+      
+    - name: Rails
+      level: 50%
+# NO MODIFICAR
+footer: >
+  BrightCoders for a brighter future!
